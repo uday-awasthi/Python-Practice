@@ -9,7 +9,7 @@ Machine Learning and Data Science.
 
 | Topic | Status |
 |---|---|
-| Variables and Data Types | ✅ Done |
+| Variables and Data Types | 🔄 In Progress |
 | Loops and Conditions | 🔄 In Progress |
 | Functions | 📅 Planned |
 | OOP — Classes and Objects | 📅 Planned |
