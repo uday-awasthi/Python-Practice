@@ -10,17 +10,17 @@ Machine Learning and Data Science.
 | Topic | Status |
 |---|---|
 | Variables and Data Types | ✅ Done |
-| Loops and Conditions | 🔄 In Progress |
-| Functions | 📅 Planned |
-| OOP — Classes and Objects | 📅 Planned |
+| Loops and Conditions | ✅ Done |
+| Functions | ✅ Done |
+| OOP — Classes and Objects | ✅ Done |
 | File Handling | 📅 Planned |
 | Error Handling | 📅 Planned |
-| List Comprehensions | 📅 Planned |
-| Lambda Functions | 📅 Planned |
-| Modules and Libraries | 📅 Planned |
-| Pandas Basics | 📅 Planned |
-| NumPy Basics | 📅 Planned |
-| Matplotlib Basics | 📅 Planned |
+| List Comprehensions | ✅ Done |
+| Lambda Functions | ✅ Done |
+| Modules and Libraries | ✅ Done |
+| Pandas Basics | ✅ Done |
+| NumPy Basics | ✅ Done |
+| Matplotlib Basics | ✅ Done |
 
 ---
 
