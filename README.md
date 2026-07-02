@@ -13,8 +13,8 @@ Machine Learning and Data Science.
 | Loops and Conditions | ✅ Done |
 | Functions | ✅ Done |
 | OOP — Classes and Objects | ✅ Done |
-| File Handling | 📅 Planned |
-| Error Handling | 📅 Planned |
+| File Handling | ✅ Done |
+| Error Handling | ✅ Done |
 | List Comprehensions | ✅ Done |
 | Lambda Functions | ✅ Done |
 | Modules and Libraries | ✅ Done |
